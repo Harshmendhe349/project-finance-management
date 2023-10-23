@@ -1,0 +1,59 @@
+[
+  { "id": 1,
+    "Name": "Expense 1",
+    "Category": "Category 1",
+    "date_of_expense": "2023-10-21",
+    "Amount": 100.00,
+    "updated_at": "2023-10-21 09:00 AM",
+    "created_by": "User 1"
+  },
+  { "id": 2,
+    "Name": "Expense 2",
+    "Category": "Category 2",
+    "date_of_expense": "2023-10-9",
+    "Amount": 75.50,
+    "updated_at": "2023-10-20 02:30 PM",
+    "created_by": "User 2"
+  },
+  { "id": 3,
+    "Name": "Expense 3",
+    "Category": "Category 1",
+    "date_of_expense": "2023-10-19",
+    "Amount": 120.00,
+    "updated_at": "2023-10-19 10:15 AM",
+    "created_by": "User 1"
+  },
+  { "id": 4,
+    "Name": "Expense 4",
+    "Category": "Category 3",
+    "date_of_expense": "2023-10-18",
+    "Amount": 50.25,
+    "updated_at": "2023-10-18 03:45 PM",
+    "created_by": "User 3"
+  },
+  { "id": 5,
+    "Name": "Expense 5",
+    "Category": "Category 2",
+    "date_of_expense": "2023-10-17",
+    "Amount": 65.00,
+    "updated_at": "2023-10-17 11:30 AM",
+    "created_by": "User 2"
+  },
+  { "id": 6,
+    "Name": "Expense 6",
+    "Category": "Category 3",
+    "date_of_expense": "2023-10-16",
+    "Amount": 90.75,
+    "updated_at": "2023-10-16 04:20 PM",
+    "created_by": "User 1"
+  },
+  { "id": 7,
+    "Name": "Expense 7",
+    "Category": "Category 3",
+    "date_of_expense": "2023-10-10",
+    "Amount": 90.75,
+    "updated_at": "2023-10-16 04:20 PM",
+    "created_by": "User 1"
+  }
+
+]
