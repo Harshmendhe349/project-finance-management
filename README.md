@@ -1,14 +1,46 @@
-# Getting Started with Create React App
+# Project Name
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Personal Finance Manger
+The Personal Finance Manager is a web application designed to help individuals take control of their financial well-being. It offers an intuitive and convenient way to manage and track personal finances, expenses, and savings. The Personal Finance Manager simplifies the complexities of managing money and provides a clear picture of one's financial health, ultimately promoting financial stability and security. It's a user-friendly, all-in-one financial assistant for a more prosperous future.
 
-## Available Scripts
+## Main Features 
+Main features include:
 
-In the project directory, you can run:
+1. Login Page: Secure user authentication for a personalized experience.
 
-### `npm start`
+2. View Expenses: A dashboard displaying a table of your expenses, providing an at-a-glance overview of your financial transactions.
 
-Runs the app in the development mode.\
+3. Sort by Date: Easily organize your expenses by date to understand your spending habits better.
+
+4. Search Functionality: Quickly find specific expenses by searching for keywords, categories, or other criteria.
+
+5. Add New Expense: Streamlined data entry for adding new expenses with details such as name, category, date, and amount.
+
+6. Edit Existing Expense: Update and modify existing expenses to keep your financial records accurate.
+
+7. Delete Expense: Remove unwanted or irrelevant expenses to maintain a clean financial history.
+
+### Steps to run the project
+
+1. Install Node.js:
+    If you haven't already, download and install Node.js from the official website: Node.js.
+
+2. Clone the Repository:
+    Clone the project repository to your local machine using Git or download the project as a ZIP file.
+    ### 'git clone <https://github.com/Harshmendhe349/project-finance-management.git>'
+
+3. Open your terminal or command prompt and navigate to the project's root directory.
+    ### 'cd personal-finance-manager' 
+
+4. Install Dependencies:
+    Run the following command to install the necessary dependencies. This command will create the node_modules directory and install all the required modules.
+    ### 'npm install'
+
+5. Run the Project:
+    After installing the dependencies, you can start the project by running:
+    ### `npm start`
+
+Runs the app in the development mode.a
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -29,42 +61,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
